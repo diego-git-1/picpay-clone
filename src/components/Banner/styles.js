@@ -23,6 +23,6 @@ export const Title = styled.Text`
 `
 export const Description = styled.Text`
   color: #fff;
-  font-size: 14px;
+  font-size: 15px;
   margin-top: 15px;
 `
